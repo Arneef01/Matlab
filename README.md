@@ -1,2 +1,2 @@
 # Matlab
-This folder contains all matlab/Simulink project
+This folder contains all MATLAB/Simulink projects
